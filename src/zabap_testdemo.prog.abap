@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZABAP_TESTDEMO.
-write 'This is for CAPE CI Demonstration' .
+write 'This is for CAPE CI/CD Demonstration' .
